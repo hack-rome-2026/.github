@@ -1,4 +1,4 @@
-# RomeHack 2026
+# HackRome 2026
 
 ## Team Members
 
@@ -7,6 +7,10 @@
 [Bosi Federico](https://github.com/rhxto)
 
 [Marziano Renato Eugenio Maria](https://github.com/drank40)
+
+## Web Site
+
+[Web Site](https://hack-rome-2026.github.io/)
 
 ## Kanban Board
 
